@@ -8,6 +8,6 @@ Information
 
 TODO list
 
-[x] complete 1
-[ ] pending 1
-[ ] pending 2
+* [x] complete 1
+* [ ] pending 1
+* [ ] pending 2
